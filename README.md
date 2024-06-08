@@ -15,7 +15,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone [https://github.com/yourusername/MyToken.git](https://github.com/Sumitraj03/eth.sol1/tree/main?tab=readme-ov-file)
+git clone https://github.com/Sumitraj03/eth.sol1/tree/main?tab=readme-ov-file 
 Open in Remix IDE:
 
 Go to Remix IDE.
